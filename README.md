@@ -1,4 +1,4 @@
-### Hi there 👋
+Bem-vindo à minha página no GitHub. Aqui você encontra meus projetos criados ao longo da minha jornada como desenvolvedor. Acompanha a minha evolução e experiências. 
 
 <!--
 **FernandoDeCastro/FernandoDeCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
